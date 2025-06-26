@@ -8,7 +8,7 @@ console.log("henlo from INDEX.JS")
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
     <CartProvider>
-      <BrowserRouter basename="/csa-project-shopping-cart-app/">
+      <BrowserRouter>
         <App />
       </BrowserRouter>
     </CartProvider>
