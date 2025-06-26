@@ -16,7 +16,8 @@ export default function ProductCard({ product, onAddToCart }) {
 
 /* STYLES */
 const Card = styled.div`
-  border: 1px solid #ccc;
+  background-color: #ffffff;
+  border: 2px solid #98afc6;
   width: 250px;
   padding: 1rem;
   border-radius: 8px;
