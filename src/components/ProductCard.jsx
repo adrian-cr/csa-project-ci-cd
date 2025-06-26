@@ -31,8 +31,8 @@ const ProductName = styled.h2`
   font-size: 1.1rem;
 `;
 const Price = styled.p`
-  font-size: 1.4rem;
-  color: #1bb7d6;
+  font-size: 1.6rem;
+  color: #1ddab4;
   font-weight: bold;
 `;
 
@@ -48,7 +48,7 @@ const Button = styled.button`
   transition: padding 100ms;
 
   &:hover {
-    background-color: #19cac7;
+    background-color: #19caa7;
     font-weight: 600;
     padding: 0.5rem 1.2rem;
 
