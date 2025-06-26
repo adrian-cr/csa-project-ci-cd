@@ -5,7 +5,7 @@ import CartPage from "./pages/CartPage";
 import CheckoutPage from "./pages/CheckoutPage";
 import ConfirmationPage from "./pages/ConfirmationPage";
 import Header from "./components/Header";
-
+console.log("henlo from APP.JSX")
 function App() {
   return (
     <>
