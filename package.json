@@ -1,7 +1,7 @@
 {
   "name": "csa-project-shopping-cart-app",
   "version": "0.1.0",
-  "homepage": "https://adrian-cr.github.io/csa-project-shopping-cart-app",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
